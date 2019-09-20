@@ -16,3 +16,4 @@ Gus: What are you doing
 Gus: STOP!
 ADMIN Ryan: Panda
 Gus: Caiden you suck
+ADMIN Ryan: Hello Why you say that?
