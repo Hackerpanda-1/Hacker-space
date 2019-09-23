@@ -1,9 +1,15 @@
 Hacker Space Chat:
-________________________________________
-|Announcments:                         |
-|ADMIN Ryan: I have added the games    |
-|ADMIN Ryan: DO NOT OVER USE THE GAMES.|
-|______________________________________|
+______________________________________________
+|Announcments:                               |
+|ADMIN RYAN HAS CREATED A NEW CHATING SECTION|
+|ADMIN Ryan: I have added the games          |
+|ADMIN Ryan: DO NOT OVER USE THE GAMES.      |
+|____________________________________________|
+
+
+
+______________________________
+Chat Section:
 Gus: This is Gus and hello everyone
 Gus: Meet during SS
 Ryan: Edit it by clicking the pencil
@@ -23,9 +29,5 @@ ADMIN Ryan: Panda
 Gus: Caiden you suck
 ADMIN Ryan: Hello Why you say that?
 ADMIN Ryan: I have added the games
-ADMIN RYAN HAS CREATED A NEW CHATING SECTION
-
-______________________________
-Chat Section:
 ______________________________
 Hacking Section
